@@ -122,11 +122,7 @@ Unsafe unsafe0 = Unsafe.getUnsafe();
 System.out.println("-Xbootclasspath/a:添加jar包：" + unsafe0);  // 可以获得Unsafe实例对象
 ```
 
-![1585063368237](assets\1585063368237.png)
-
-
-
-这种方式太难了.....所以我们使用下面的第二种方式。
+这种方式太难操作了.....所以我们使用下面的第二种方式。
 
 
 
