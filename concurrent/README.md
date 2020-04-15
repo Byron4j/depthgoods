@@ -1,5 +1,7 @@
 # Java并发专题
 
+[JDK8并发概览](doc/并发包概览.md)
+
 [01-Unsafe-java的魔法类](doc/01-Unsafe-java的魔法类/01-Unsafe-java的魔法类.md)
 
 [02-字节码文件魔数0xCAFEBABE](doc/02-字节码文件魔数0xCAFEBABE/02-字节码文件魔数0xCAFEBABE.md)
